@@ -2,7 +2,6 @@
 #-*- coding:utf8 -*-
 
 import PyPDF2 as pdf, tkinter as tk
-from tkinter import filedialog
 
 t=tk.Tk()
 t.title("Text extractor from pdf")
